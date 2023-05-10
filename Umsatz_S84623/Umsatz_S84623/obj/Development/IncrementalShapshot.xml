@@ -19,49 +19,49 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>t+1Nx8AEncCqPl2kwSEYXW4BVF0=27.04.2023 09:14:2327.04.2023 09:14:23</TimeStamp>
+        <TimeStamp>t+1Nx8AEncCqPl2kwSEYXW4BVF0=10.05.2023 07:45:1727.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>UmsatzSource</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>GDeI2efEloMlywpm9M2Rhvu63Jw=27.04.2023 10:15:1727.04.2023 09:18:13</TimeStamp>
+        <TimeStamp>GDeI2efEloMlywpm9M2Rhvu63Jw=10.05.2023 07:45:1827.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>UmsatzView</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>NV3+I+3vO21OPTjgC+RwNPZxoOo=27.04.2023 09:40:5027.04.2023 09:20:12</TimeStamp>
+        <TimeStamp>NV3+I+3vO21OPTjgC+RwNPZxoOo=10.05.2023 07:45:1827.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>Zeit</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>GcMw12skGfOKAmS4bU6Z5Ml7CWM=27.04.2023 10:04:3427.04.2023 09:46:50</TimeStamp>
+        <TimeStamp>zrodtLCQ3pR9PimrTdVq65KjHmw=10.05.2023 07:54:0227.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>Geografie</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>PyUBMQQF9n4AHrABXwf5LSLbZNY=27.04.2023 10:14:1527.04.2023 10:08:28</TimeStamp>
+        <TimeStamp>PyUBMQQF9n4AHrABXwf5LSLbZNY=10.05.2023 07:45:1727.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>Produkt</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>6MJ9IFTcE40zZ3tZz2kGIf4Odnk=27.04.2023 10:17:3827.04.2023 10:16:43</TimeStamp>
+        <TimeStamp>6MJ9IFTcE40zZ3tZz2kGIf4Odnk=10.05.2023 07:45:1727.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>Mitarbeiter</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>gh8TvCUrDxvD47KaIreWNRxOv+c=27.04.2023 10:44:5527.04.2023 10:23:15krr+C1AYVNXVXBIzp6fQ6dNpzVg=27.04.2023 10:23:1527.04.2023 10:23:15</TimeStamp>
+        <TimeStamp>gh8TvCUrDxvD47KaIreWNRxOv+c=10.05.2023 07:45:1727.04.2023 01:47:04krr+C1AYVNXVXBIzp6fQ6dNpzVg=10.05.2023 07:45:1727.04.2023 01:47:04</TimeStamp>
         <ID>
           <String>Umsatz</String>
         </ID>
@@ -69,7 +69,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>5pKZs2OMVx/ObJ7TA4L0aBXF1Ts=27.04.2023 09:10:4727.04.2023 09:10:46</TimeStamp>
+      <TimeStamp>5pKZs2OMVx/ObJ7TA4L0aBXF1Ts=10.05.2023 07:45:1827.04.2023 01:47:04</TimeStamp>
       <ID>
         <String>Umsatz_S84623</String>
       </ID>
@@ -78,5 +78,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2023-04-27T08:45:01.246667Z</LastDeployed>
+  <LastDeployed>2023-05-10T06:16:06.653333Z</LastDeployed>
 </DeploymentSnapshot>
